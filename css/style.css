@@ -1,0 +1,13 @@
+li{
+margin-top:15px;
+cursor: pointer;
+font-size:18px;
+}
+
+li:hover{
+color:red;
+}
+
+body,html{
+    overflow-x: hidden;
+}
